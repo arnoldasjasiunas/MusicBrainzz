@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicBrainz</string>
+
+    <string name="places_returned_format">Returned: %d</string>
+    <string name="total_places_format">Total: %d</string>
+    <string name="failed_requests_format">Failed: %d</string>
+    <string name="countdown">Countdown: %d</string>
+</resources>
